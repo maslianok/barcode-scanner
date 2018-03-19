@@ -1,0 +1,3 @@
+export const CODES_WHITELIST = ['111111111111', '22222222222'];
+
+export default CODES_WHITELIST;
